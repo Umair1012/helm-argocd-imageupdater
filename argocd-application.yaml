@@ -14,7 +14,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Umair1012/helm-argocd-imageupdater.git
-    path: .
+    path: flask-app
     targetRevision: main
     helm:
       valueFiles:
