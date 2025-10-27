@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.name
+    value: misacademy/flask-todo
+    forcestring: true
+  - name: image.tag
+    value: v1.0.8
+    forcestring: true
