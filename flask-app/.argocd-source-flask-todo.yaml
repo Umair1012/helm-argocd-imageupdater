@@ -4,5 +4,5 @@ helm:
     value: misacademy/flask-todo
     forcestring: true
   - name: image.tag
-    value: v1.0.8
+    value: v1.0.9
     forcestring: true
